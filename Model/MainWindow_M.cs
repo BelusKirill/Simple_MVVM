@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Simple_MVVM.Model
+﻿namespace Simple_MVVM.Model
 {
     /// <summary>Статический класс модели данных</summary>
     public class MainWindow_M
